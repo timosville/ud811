@@ -2,7 +2,3 @@
 # yarn lockfile v1
 
 
-live-serve@^0.0.0:
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/live-serve/-/live-serve-0.0.0.tgz#2b9c45f0163d7e2778285ec0701442c99e6af564"
-  integrity sha512-ROmoSKVeA98FBJEJU8XCx71lz9JUXPkh9lrL9jfvZKf8Py2xUCunbTS2VQWCIHZwadpMDmtFhE7kVR9V1xh/ow==
